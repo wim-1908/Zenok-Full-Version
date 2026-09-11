@@ -241,3 +241,6 @@ This repository serves as the official landing page for ZenOK. The software is d
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of ZenOK today!**
+
+---
+**Last updated:** 2026-09-11 23:02:24 UTC
